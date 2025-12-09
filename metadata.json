@@ -1,0 +1,7 @@
+{
+  "name": "MemoFlow AI",
+  "description": "A Flomo-like fragment memo tool with voice input and AI-powered periodic reviews.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
